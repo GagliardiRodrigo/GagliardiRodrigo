@@ -21,8 +21,10 @@ Soy estudiante de ingeniería industrial, especializado en data analytics y data
 
 
 <h3><span style="color:blue;">Contacto:</span> </h3><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/)
+
 
 
 
