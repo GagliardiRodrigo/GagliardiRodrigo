@@ -10,18 +10,21 @@ I am a student of industrial engineering, specializing in data analytics and dat
 Soy estudiante de ingeniería industrial, especializado en data analytics y data science. Tengo amplia experiencia en gestión y análisis de datos. Mi objetivo es aplicar mis habilidades y conocimientos en proyectos desafiantes para contribuir al éxito de las organizaciones. Me apasiona el análisis de datos, el aprendizaje continuo y colaborar en equipos.
 
 ## <h3><span style="color:blue;">Tecnologías:</span> </h3><br>
+
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-orange?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
 [![APIs](https://img.shields.io/badge/APIs-green?style=for-the-badge&logo=apis&logoColor=white&labelColor=101010)]()
 [![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)]()<br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()<br>
-[![Power BI](https://img.shields.io/badge/Power%20BI-purple?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)]()<br>
+[![Power BI](https://img.shields.io/badge/Power%20BI-purple?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)]()
+[![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
+[![Prezi](https://img.shields.io/badge/Prezi-lightgrey?style=for-the-badge&logo=prezi&logoColor=white&labelColor=101010)]()<br>
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 
-<h3><span style="color:blue;">Contacto:</span> </h3><br>
+<h3><span style="color:blue;">Contacto:</span>
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()Rodrigo.n.gagliardi@gmail.com<br>
 
