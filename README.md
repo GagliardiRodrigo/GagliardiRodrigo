@@ -1,5 +1,5 @@
 <h1>Hi, my name is Rodrigo Gagliardi👋</h1> <br>
-<h3><font color="blue">Data analytics and Data science | Analista de datos y Científico de datos</font></h3><br>
+<h3>Data analytics and Data science | Analista de datos y Científico de datos</h3><br>
 
 ![image](https://github.com/GagliardiRodrigo/GagliardiRodrigo/assets/107724825/355683b9-b39f-47ee-81de-35f275f2b153)
 
@@ -8,7 +8,7 @@ I am a student of industrial engineering, specializing in data analytics and dat
 <br>
 Soy estudiante de ingeniería industrial, especializado en data analytics y data science. Tengo amplia experiencia en gestión y análisis de datos. Mi objetivo es aplicar mis habilidades y conocimientos en proyectos desafiantes para contribuir al éxito de las organizaciones. Me apasiona el análisis de datos, el aprendizaje continuo y colaborar en equipos.
 
-## <h3><span style="color:blue;">Tecnologías:</span> </h3><br>
+## <h3>Tecnologías:</h3><br>
 
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-orange?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
@@ -23,7 +23,8 @@ Soy estudiante de ingeniería industrial, especializado en data analytics y data
 [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 
-<h3><span style="color:blue;">Contacto:</span><br>
+<h3>Contacto:<br>
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()Rodrigo.n.gagliardi@gmail.com<br>
 
