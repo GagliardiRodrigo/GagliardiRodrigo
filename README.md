@@ -1,13 +1,11 @@
-### Hi, my name is Rodrigo Gagliardi\ Hola, mi nombre es Rodrigo Gagliardi 👋
-### Data analytics and Data science | Analista de datos y Cientifico de datos
+Hi, my name is Rodrigo Gagliardi 👋
+Data analytics and Data science | Analista de datos y Científico de datos
 
-![Portada][https://synergy.vision/img/stockimgs/trabajo-analisis-datos.jpg]
-
+![image](https://github.com/GagliardiRodrigo/GagliardiRodrigo/assets/107724825/2224d2b9-4319-4d99-bb7e-24b50e6361fb)
 
 I am a student of industrial engineering, specializing in data analytics and data science. I have extensive experience in data management and analysis. My objective is to apply my skills and knowledge in challenging projects to contribute to the success of organizations. I am passionate about data analytics, continuous learning, and collaborating in teams.
 
 Soy estudiante de ingeniería industrial, especializado en data analytics y data science. Tengo amplia experiencia en gestión y análisis de datos. Mi objetivo es aplicar mis habilidades y conocimientos en proyectos desafiantes para contribuir al éxito de las organizaciones. Me apasiona el análisis de datos, el aprendizaje continuo y colaborar en equipos.
-
 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
