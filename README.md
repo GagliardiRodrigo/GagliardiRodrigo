@@ -23,10 +23,10 @@ Soy estudiante de ingeniería industrial, especializado en data analytics y data
 [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 
-<h3>Contacto:<br>
+##<h3>Contacto:</h3><br>
 
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()Rodrigo.n.gagliardi@gmail.com<br>
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]() 
+ Rodrigo.n.gagliardi@gmail.com<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com//in/rodrigo-nicolas-gagliardi-103b48173/)
 
