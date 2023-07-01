@@ -4,12 +4,10 @@
 ![image](https://github.com/GagliardiRodrigo/GagliardiRodrigo/assets/107724825/355683b9-b39f-47ee-81de-35f275f2b153)
 
 <br>
-I am a student of industrial engineering, specializing in data analytics and data science. I have extensive experience in data management and analysis. My objective is to apply my skills and knowledge in challenging projects to contribute to the success of organizations. I am passionate about data analytics, continuous learning, and collaborating in teams.
-<br>
+I am a student of industrial engineering, specializing in data analytics and data science. I have extensive experience in data management and analysis. My objective is to apply my skills and knowledge in challenging projects to contribute to the success of organizations. I am passionate about data analytics, continuous learning, and collaborating in teams.<br>
 Soy estudiante de ingeniería industrial, especializado en data analytics y data science. Tengo amplia experiencia en gestión y análisis de datos. Mi objetivo es aplicar mis habilidades y conocimientos en proyectos desafiantes para contribuir al éxito de las organizaciones. Me apasiona el análisis de datos, el aprendizaje continuo y colaborar en equipos.
 
-## <h3>Tecnologías:</h3><br>
-
+<h3>Tecnologías:</h3><br>
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-orange?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
@@ -23,8 +21,7 @@ Soy estudiante de ingeniería industrial, especializado en data analytics y data
 [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 
-##<h3>Contacto:</h3><br>
-
+<h3>Contacto:</h3><br>
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]() 
  Rodrigo.n.gagliardi@gmail.com<br>
 
