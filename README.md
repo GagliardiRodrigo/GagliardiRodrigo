@@ -21,6 +21,6 @@ Soy estudiante de ingeniería industrial, especializado en data analytics y data
 
 
 <h3><span style="color:blue;">Contacto:</span> </h3><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rodrigo-nicolas-gagliardi-103b48173/)<br>
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](Rodrigo.n.gagliardi1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()https://www.linkedin.com/in/rodrigo-nicolas-gagliardi-103b48173/<br>
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()Rodrigo.n.gagliardi1@gmail.com
 
