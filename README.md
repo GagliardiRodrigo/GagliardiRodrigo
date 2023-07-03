@@ -1,4 +1,4 @@
-<h1>Hi, my name is Rodrigo Gagliardi👋</h1> <br>
+<h1>Hi, i am Rodrigo Gagliardi👋</h1> <br>
 <h3>Data analytics and Data science | Analista de datos y Científico de datos</h3><br>
 
 ![image](https://github.com/GagliardiRodrigo/GagliardiRodrigo/assets/107724825/355683b9-b39f-47ee-81de-35f275f2b153)
