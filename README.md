@@ -16,7 +16,7 @@ Soy estudiante de ingeniería industrial, especializado en data analytics y data
 [![APIs](https://img.shields.io/badge/APIs-green?style=for-the-badge&logo=apis&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)]()<br>
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()<br>
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-blue?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=101010)]()<br>
 [![Power BI](https://img.shields.io/badge/Power%20BI-purple?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)]()
 [![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
 [![Prezi](https://img.shields.io/badge/Prezi-lightgrey?style=for-the-badge&logo=prezi&logoColor=white&labelColor=101010)]()<br>
