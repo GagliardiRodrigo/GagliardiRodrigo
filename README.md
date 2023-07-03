@@ -14,6 +14,7 @@ Soy estudiante de ingeniería industrial, especializado en data analytics y data
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
 [![APIs](https://img.shields.io/badge/APIs-green?style=for-the-badge&logo=apis&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)]()<br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()<br>
 [![Power BI](https://img.shields.io/badge/Power%20BI-purple?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)]()
